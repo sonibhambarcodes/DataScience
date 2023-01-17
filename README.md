@@ -1,1 +1,1 @@
-# This project gives an overview of Big Data
+This project gives an overview of Big Data
