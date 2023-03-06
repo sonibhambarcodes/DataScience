@@ -4,3 +4,5 @@ sub=n1-n2
 sum=n1+n2
 print("the sum is ",sum)
 print("the sum is ",sub)
+mul=n1*n2
+print("the mul is ",mul)
